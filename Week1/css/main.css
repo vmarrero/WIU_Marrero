@@ -13,7 +13,7 @@ body {
 	font-family: 'Josefin Sans', helvetica, arial, sans-serif;
 	margin: 0 0 0 0;
 	color: #545257; 
-	background-image: url(../img/bg2.jpg); /* src = http://www.graphicsfuel.com/2011/09/intense-dark-grunge-textures/ */
+	background-image: url(../img/bg.jpg); /* src = http://www.graphicsfuel.com/2011/09/intense-dark-grunge-textures/ */
 	background-size: cover;
 	background-repeat: no-repeat;
 }
